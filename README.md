@@ -1,4 +1,4 @@
-# summit-react-component
+# ScottComponent
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
