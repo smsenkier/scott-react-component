@@ -18,7 +18,7 @@ Scott's React component is super useful.
 
 ```js
 import React from "react";
-import { ScottComponent } from "@summitllc/scott-react-component";
+import ScottComponent from "@summitllc/scott-react-component";
 
 function Demo() {
   return <ScottComponent message={"Go Blue!"} />;
