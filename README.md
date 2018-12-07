@@ -10,7 +10,11 @@ Scott's React component is super useful.
 | ------- | ------- | -------- | ------------------- |
 | message |         | Yes      | insert comment here |
 
-##usage example
+## Install
+
+`npm i @summitllc/scott-react-component`
+
+## Props
 
 ```js
 import React from "react";
